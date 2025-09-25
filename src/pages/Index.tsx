@@ -5,25 +5,24 @@ import { ArrowRight, Play, Users, Award, TrendingUp, Star, Search, Share2, Mouse
 import { Link } from "react-router-dom";
 
 // Client logos
-import uumaBanquetHall from "@/assets/uuma-banquet-hall.jpeg";
+import uumaBanquetHall from "@/assets/uuma-banquet-hall.png;
 import kampMattresses from "@/assets/kamp-mattresses.jpeg";
-import balajiFoundation from "@/assets/balaji-foundation.jpeg";
-import truegems from "@/assets/truegems.jpeg";
-import venkateshwaraProperties from "@/assets/venkateshwara-properties.jpeg";
-import waLogo from "@/assets/wa-logo.jpeg";
+import balajiFoundation from "@/assets/balaji-foundation.png";
+import truegems from "@/assets/truegems.png;
+import venkateshwaraProperties from "@/assets/venkateshwara-properties.png";
+import waLogo from "@/assets/wa-logo.png
 import imageClinic from "@/assets/image-clinic.jpeg";
-import gtaHomeMakers from "@/assets/gta-homemakers.jpeg";
-import gktLogo from "@/assets/gkt-logo.jpeg";
-import sagGallery from "@/assets/sag-gallery.jpeg";
-import zprimeLogo from "@/assets/zprime-logo.jpeg";
-import saajByGargee from "@/assets/saaj-by-gargee.jpeg";
-import ushaEducationalTrust from "@/assets/usha-educational-trust.jpeg";
+import gtaHomeMakers from "@/assets/gta-homemakers.png;
+import gktLogo from "@/assets/gkt-logo.png";
+import sagGallery from "@/assets/sag-gallery.png";
+import zprimeLogo from "@/assets/zprime-logo.png";
+import saajByGargee from "@/assets/saaj-by-gargee.png";
+import ushaEducationalTrust from "@/assets/usha-educational-trust.png";
 import roboticsPro from "@/assets/robotics-pro.jpeg";
-import saralClasses from "@/assets/saral-classes.jpeg";
+import saralClasses from "@/assets/saral-classes.png";
 import aajachyaGoshti from "@/assets/aajachya-goshti.jpeg";
-import fitnessGadh from "@/assets/fitness-gadh.jpeg";
-import saiLeelaCaterers from "@/assets/sai-leela-caterers.jpeg";
-
+import fitnessGadh from "@/assets/fitness-gadh.png";
+import saiLeelaCaterers from "@/assets/sai-leela-caterers.png
 const Index = () => {
   const [currentStat, setCurrentStat] = useState({ projects: 0, clients: 0, rating: 0 });
 
